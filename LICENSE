@@ -1,0 +1,20 @@
+Copyright 2024 Brice Luu
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License. 
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+This project uses/imports the following libraries:
+- [click](https://github.com/pallets/click), used under the BSD-3-Clause license
+- [html2text](https://github.com/aaronsw/html2text), used under the GPL-3.0 license  
+- [requests](https://github.com/psf/requests), used under the Apache-2.0 license
+
+From this bit of research to try to write a compatible license: https://www.perplexity.ai/search/what-license-can-XUS2WFNkS7WITYfcQfe2Sg?s=c
